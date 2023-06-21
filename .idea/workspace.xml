@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97f089c6-0bbf-4927-ad4d-4c14878fc58a" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula04Operadores.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/maratona-java/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula04Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="97f089c6-0bbf-4927-ad4d-4c14878fc58a" name="Changes" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,7 +181,7 @@
       <workItem from="1685561736120" duration="603000" />
       <workItem from="1685585183195" duration="768000" />
       <workItem from="1685664374172" duration="1382000" />
-      <workItem from="1687296893468" duration="3500000" />
+      <workItem from="1687296893468" duration="3811000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1676863335404</created>
